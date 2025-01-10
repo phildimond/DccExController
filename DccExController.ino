@@ -13,7 +13,7 @@
 #include <AiEsp32RotaryEncoder.h> // https://github.com/igorantolic/ai-esp32-rotary-encoder                    GPL 2.0
 #include <Keypad.h>               // https://www.arduinolibraries.info/libraries/keypad                        GPL 3.0
 #include <U8g2lib.h>              // https://github.com/olikraus/u8g2  (Just get "U8g2" via the Arduino IDE Library Manager)   new-bsd
-#include <string>
+#include <string.h>
 
 #include "Pangodream_18650_CL.h"  // https://github.com/pangodream/18650CL  
 
